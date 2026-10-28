@@ -1,0 +1,25 @@
+{
+  "job-count": 2,
+  "jobs": [
+    {
+      "id": 1900001,
+      "url": "https://remotive.com/remote-jobs/data/senior-data-engineer-1900001",
+      "title": "Sr. Data Engineer",
+      "company_name": "Acme Inc.",
+      "candidate_required_location": "USA",
+      "publication_date": "2026-10-19T10:00:00",
+      "salary": "$160k - $190k",
+      "description": "<p>Short Remotive copy.</p>"
+    },
+    {
+      "id": 1900002,
+      "url": "https://remotive.com/remote-jobs/data/analytics-engineer-1900002",
+      "title": "Analytics Engineer",
+      "company_name": "Gamma",
+      "candidate_required_location": "Worldwide",
+      "publication_date": "2026-10-22T10:00:00",
+      "salary": "",
+      "description": "<p>dbt and Snowflake.</p>"
+    }
+  ]
+}

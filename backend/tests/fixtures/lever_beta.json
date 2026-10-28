@@ -1,0 +1,14 @@
+[
+  {
+    "id": "a1b2c3",
+    "text": "ML Platform Engineer",
+    "categories": {"location": "Wilmington, DE", "commitment": "Full-time", "team": "Platform"},
+    "workplaceType": "hybrid",
+    "hostedUrl": "https://jobs.lever.co/beta/a1b2c3",
+    "createdAt": 1760000000000,
+    "descriptionPlain": "Own the ML platform.",
+    "lists": [{"text": "Requirements", "content": "<li>Python</li>"}],
+    "additionalPlain": "Benefits included.",
+    "salaryRange": {"currency": "USD", "min": 150000, "max": 190000, "interval": "per-year-salary"}
+  }
+]

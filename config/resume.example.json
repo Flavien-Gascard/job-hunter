@@ -1,0 +1,37 @@
+{
+  "name": "Alex Example",
+  "contact": ["Philadelphia, PA", "alex@example.com", "linkedin.com/in/alex-example"],
+  "profile": "Data engineer with 8 years of experience building batch and streaming pipelines on AWS. Replace this file by importing your own resume from the app.",
+  "skills": [
+    { "name": "Languages", "items": ["Python", "SQL", "Java"] },
+    { "name": "Data", "items": ["Spark", "Airflow", "Kafka", "Snowflake", "dbt"] },
+    { "name": "Cloud & DevOps", "items": ["AWS (S3, Glue, EMR, Lambda)", "Terraform", "Docker", "GitHub Actions"] }
+  ],
+  "experience": [
+    {
+      "title": "Senior Data Engineer",
+      "company": "Example Corp",
+      "location": "Philadelphia, PA",
+      "start": "2021",
+      "end": "Present",
+      "bullets": [
+        { "label": "Streaming", "text": "Built a Kafka-to-Snowflake pipeline processing 40M events a day with under 5 minutes of latency." },
+        { "label": "Orchestration", "text": "Migrated 120 cron jobs to Airflow with retries and alerting, cutting failed nightly loads by 70%." },
+        { "label": "Cost", "text": "Right-sized EMR clusters and moved cold data to S3 Glacier, saving $180K a year." }
+      ]
+    },
+    {
+      "title": "Data Engineer",
+      "company": "Sample Analytics",
+      "location": "Remote",
+      "start": "2017",
+      "end": "2021",
+      "bullets": [
+        { "label": "", "text": "Wrote PySpark ETL jobs feeding the company's customer analytics warehouse." },
+        { "label": "", "text": "Added data-quality checks that caught schema drift before it reached dashboards." }
+      ]
+    }
+  ],
+  "certifications": ["AWS Certified Data Engineer – Associate"],
+  "education": ["B.S. Computer Science – Example University"]
+}

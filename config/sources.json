@@ -1,0 +1,17 @@
+{
+  "_comment": "Company slugs are the last part of the job board URL: boards.greenhouse.io/<slug>, jobs.lever.co/<slug>. These are examples; replace them with your target companies.",
+  "greenhouse": ["databricks", "stripe", "datadog", "robinhood", "anthropic"],
+  "lever": ["palantir", "plaid"],
+  "remotive": { "search": ["data engineer", "ai engineer"] },
+  "adzuna": {
+    "country": "us",
+    "what": ["data engineer", "AI engineer", "software engineer data"],
+    "where": "Wilmington, DE",
+    "distance_km": 60,
+    "max_days_old": 14
+  },
+  "title_filter": {
+    "include": ["data", "ai", "ml", "machine learning", "platform", "software engineer", "backend", "analytics", "etl"],
+    "exclude": ["intern", "sales", "account executive", "recruiter", "marketing", "counsel", "designer"]
+  }
+}

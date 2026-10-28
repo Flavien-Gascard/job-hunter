@@ -1,0 +1,24 @@
+{
+  "jobs": [
+    {
+      "id": 4012345,
+      "title": "Senior Data Engineer (Remote)",
+      "company_name": "Acme",
+      "location": {"name": "Remote - US"},
+      "absolute_url": "https://boards.greenhouse.io/acme/jobs/4012345",
+      "updated_at": "2026-10-20T12:00:00-04:00",
+      "first_published": "2026-10-18T09:00:00-04:00",
+      "content": "&lt;p&gt;Build our &lt;strong&gt;Iceberg&lt;/strong&gt; lakehouse.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Spark&lt;/li&gt;&lt;li&gt;AWS&lt;/li&gt;&lt;/ul&gt;"
+    },
+    {
+      "id": 4012346,
+      "title": "Account Executive",
+      "company_name": "Acme",
+      "location": {"name": "New York, NY"},
+      "absolute_url": "https://boards.greenhouse.io/acme/jobs/4012346",
+      "updated_at": "2026-10-21T12:00:00-04:00",
+      "content": "&lt;p&gt;Sell things.&lt;/p&gt;"
+    }
+  ],
+  "meta": {"total": 2}
+}
